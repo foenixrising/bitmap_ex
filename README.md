@@ -1,7 +1,7 @@
 # bitmap_ex
-Bitmap example illustrating 320x200, full color palette, and a bitmap frame via the MMU  
+**Bitmap example illustrating 320x200, full color palette, and a bitmap frame via the MMU**  
   
-; Sample bitmap instantiation code for the F256 platform (400 lines)  
+``; Sample bitmap instantiation code for the F256 platform (400 lines)  
 ;  
 ; Developed by Michael Weitman leveraging code from:  
 ;  F256Manual by pweingar  
@@ -17,4 +17,4 @@ Bitmap example illustrating 320x200, full color palette, and a bitmap frame via 
 ; Also note; this code will not produce a PGX/PGZ or autorun header;  
 ; instead, it will produce a .bin file which must be pushed into your  
 ; machine @ $E000 using the Foenix Uploader  
-; Assembler directives are for 64TASS  
+; Assembler directives are for 64TASS``  
