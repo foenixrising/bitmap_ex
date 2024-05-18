@@ -10,7 +10,8 @@
 ``; See issue #16 (published May 31, 2024) of Foenix Rising``  
 ``; for more on this topic http://apps.emwhite.org/foenixmarketplace``  
 ``;``  
-``; ==DISCLAIMERS:==``   
+``; DISCLAIMERS:``  
+``  ===========``  
 ``; This code was derived from the full 'Foenix Balls' demo, and done``  
 ``; so with haste; therefore, there may be one or more "1-off" errors``  
 ``; within.``
