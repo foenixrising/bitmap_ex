@@ -19,4 +19,4 @@
 ``; Also note; this code will not produce a PGX/PGZ or autorun header``  
 ``; instead, it will produce a .bin file which must be pushed into your``  
 ``; machine @ $E000 using the Foenix Uploader``  
-``; Assembler directives are for 64TASS``  
+``; *assembler directives are for 64TASS``  
