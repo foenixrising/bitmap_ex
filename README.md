@@ -11,7 +11,7 @@
 ``; for more on this topic http://apps.emwhite.org/foenixmarketplace``  
 ``;``  
 ``; DISCLAIMERS:``  
-``  ----------- ``    
+``  -----------``  
 ``; This code was derived from the full 'Foenix Balls' demo, and done``  
 ``; so with haste; therefore, there may be one or more "1-off" errors``  
 ``; within.``
