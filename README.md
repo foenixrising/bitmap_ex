@@ -2,7 +2,7 @@
 **Bitmap example illustrating 320x200, full color palette, and a bitmap frame via the MMU**  
   
 ``; Sample bitmap instantiation code for the F256 platform (400 lines)``  
-``;  
+``;``  
 ``; Developed by Michael Weitman leveraging code from:``  
 ``;  F256Manual by pweingar``  
 ``;  'balls' demo by Stephen Edwards (frame code)``  
