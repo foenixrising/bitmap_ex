@@ -4,8 +4,8 @@
 ``; Sample bitmap instantiation code for the F256 platform (400 lines)``  
 ``;``  
 ``; Developed by Michael Weitman leveraging code from:``  
-``;  F256Manual by pweingar``  
-``;  'balls' demo by Stephen Edwards (frame code)``  
+``;  - F256Manual by pweingar``  
+``;  - 'balls' demo by Stephen Edwards (frame code)``  
   
 ``; See issue #16 (published May 31, 2024) of Foenix Rising``  
 ``; for more on this topic http://apps.emwhite.org/foenixmarketplace``  
